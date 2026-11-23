@@ -1,0 +1,10 @@
+name: C:\Users\ajmal\anaconda3\envs\IntroML
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.14
+  - numpy
+  - pandas
+  - scikit-learn
+  - ipykernel
